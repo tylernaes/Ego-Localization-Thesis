@@ -1,0 +1,7 @@
+<launch>
+
+  <node name="zeroing_node" pkg="naes" type="zeroing_node" output="screen" cwd="node">
+  </node>
+
+</launch>
+
